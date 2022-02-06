@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        GitHub Jira linking
 // @description Turn a Jira ticket number in a GitHub PR into a link to that ticket.
+// @author      Jan Jongerden
 // @version     1
 // @match       https://github.com/*
 // ==/UserScript==
